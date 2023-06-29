@@ -23,7 +23,7 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; 我目前正在学习 Spring 应用程序开发。
+- 🔭 &nbsp; 我目前正在学习  应用程序开发。
 - 🤔 &nbsp; 探索新技术，并设计软件的解决方案和快速编程。
 - 🎓 &nbsp; 学习计算机科学、计算机编程和数学。
 - 💼 &nbsp; JAVA 开发人员、大数据开发人员和前端 Web 开发人员。
@@ -35,12 +35,58 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 ### 🛠 Tech Stack
 
+- 💻 &nbsp;
+![Java](https://img.shields.io/badge/JAVA-e1681b.svg?logo=openjdk&logoColor=white) | 
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?logo=python&logoColor=white) | 
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) | 
+![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logo=Scala&logoColor=white)
+- 🌐 &nbsp; 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) | 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white) | 
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?logo=javascript&logoColor=white) | 
+![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white) | 
+![SASS](https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white) |
+![Element](https://img.shields.io/badge/Element-0DBD8B.svg?logo=element&logoColor=white)
+- 🛢 &nbsp; 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mariadb&logoColor=white) | 
+![Hive](https://img.shields.io/badge/Hive-FF7A00.svg?logo=hive&logoColor=white) | 
+![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?logo=redis&logoColor=white) | 
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?logo=mongodb&logoColor=white) | 
+![Neo4J](https://img.shields.io/badge/Neo4J-018bff.svg?logo=Neo4J&logoColor=white)
+- 🚀 &nbsp; 
+![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?logo=intellij-idea&logoColor=white) |
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white) | 
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?logo=visual-studio-code&logoColor=white) | 
+![LINUX](https://img.shields.io/badge/LINUX-FCC624.svg?logo=linux&logoColor=white) | 
+![Git](https://img.shields.io/badge/GIT-F05032.svg?logo=git&logoColor=white) |
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white)
+- 🖥 &nbsp; 
+![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?logo=spring&logoColor=white) | 
+![VUE](https://img.shields.io/badge/VUE-4FC08D.svg?logo=vue.js&logoColor=white) | 
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=Apache%20Hadoop&logoColor=white) | 
+![Spark](https://img.shields.io/badge/Spark-e25a1c.svg?logo=Apache%20Spark&logoColor=white) | 
+![Flink](https://img.shields.io/badge/Flink-e6526f.svg?logo=Apache%20Flink&logoColor=white) | 
+![Django](https://img.shields.io/badge/Django-0c4b33.svg?logo=django&logoColor=white) | 
+![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff.svg?logo=Adobe%20Photoshop&logoColor=white)
+- 🔧 &nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-181717.svg?logo=github&logoColor=white) | 
+![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?logo=apache-maven&logoColor=white) | 
+![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?logo=apache-kafka&logoColor=white) | 
+![Nginx](https://img.shields.io/badge/NGINX-269539.svg?logo=nginx&logoColor=white) | 
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?logo=docker&logoColor=white) |
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571.svg?logo=ElasticSearch&logoColor=white) 
 
-- 💻 &nbsp; Java | Python | C++ | BigData
-- 🌐 &nbsp; HTML | CSS | JavaScript | Vue | Bootstrap | wechat
-- 🛢 &nbsp; MySQL | redis | MongoDB | HBase | Neo4J
-- 🔧 &nbsp; IntelliJ IDEA | WebStorm | PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+
+
+
+<!-- 生成徽章网站
+https://shields.io/
+https://badgen.net/
+https://forthebadge.com/
+https://badge.fury.io/
+https://github.com/boennemann/badges
+-->
+
 
 
 <!-- 可以贴上自己觉得不错的项目 或 近期项目
