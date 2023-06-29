@@ -15,7 +15,7 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 # Hi there 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="30%"/>
 
 ### 👨🏻‍💻 About Me
 
