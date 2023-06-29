@@ -15,7 +15,10 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 # Hi there 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="30%"/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="33%"/>
+
+
 
 ### 👨🏻‍💻 About Me
 
@@ -27,9 +30,7 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 - ✍️ &nbsp; 观看动漫并尝试最新的设计趋势作为爱好/副业。
 - ☕ &nbsp; 我相信，一杯完美的咖啡可以成为任何压力的终极解决方案。
 
-
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanyz-ok)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yanyz-ok" width="33%"/>
 
 ### 🛠 Tech Stack
 
@@ -38,3 +39,19 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 - 🛢 &nbsp; MySQL | redis | MongoDB | HBase | Neo4J
 - 🔧 &nbsp; IntelliJ IDEA | WebStorm | PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+
+
+[![Gmail Badge](https://img.shields.io/badge/gmail-3176998075@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3176998075@qq.com)](mailto:3176998075@qq.com)
+
+
+&nbsp;
+<p align="center">
+  <samp>
+<!--     <a href="https://antfu.me">me</a> . -->
+    <a href="https://www.yuque.com/yanyz_ok">yuque</a> .
+    <a href="https://www.cnblogs.com/yanyz">cnblogs</a> .
+    <a href="https://leetcode.cn/u/yanyz">leetcode</a> .
+    <a href="https://gitee.com/yan-yingzhe">gitee</a>
+  </samp>
+</p>
+
