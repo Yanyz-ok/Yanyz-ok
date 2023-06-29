@@ -124,7 +124,7 @@ https://github.com/boennemann/badges
     <a href="https://www.yuque.com/yanyz_ok">yuque</a> .
     <a href="https://www.cnblogs.com/yanyz">cnblogs</a> .
     <a href="https://leetcode.cn/u/yanyz">leetcode</a> .
-    <a href="https://gitee.com/yan-yingzhe">gitee</a>
+    <a href="https://gitee.com/yanyzok">gitee</a>
   </samp>
 </p>
 
