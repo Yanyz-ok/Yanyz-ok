@@ -42,6 +42,14 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 
+<!-- 可以贴上自己觉得不错的项目 或 近期项目
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+-->
 
 &nbsp;
 
