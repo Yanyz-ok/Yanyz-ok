@@ -15,10 +15,11 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 # Hi there 👋
 
+[![Gmail Badge](https://img.shields.io/badge/gmail-3176998075@qq.com-Green?logo=Gmail&logoColor=white&link=mailto:3176998075@qq.com)](mailto:3176998075@qq.com)
+
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="33%"/>
-
-
 
 ### 👨🏻‍💻 About Me
 
@@ -41,10 +42,9 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 
-[![Gmail Badge](https://img.shields.io/badge/gmail-3176998075@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3176998075@qq.com)](mailto:3176998075@qq.com)
-
 
 &nbsp;
+
 <p align="center">
   <samp>
 <!--     <a href="https://antfu.me">me</a> . -->
