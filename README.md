@@ -27,6 +27,10 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 - ✍️ &nbsp; 观看动漫并尝试最新的设计趋势作为爱好/副业。
 - ☕ &nbsp; 我相信，一杯完美的咖啡可以成为任何压力的终极解决方案。
 
+
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanyz-ok)
+
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; Java | Python | C++ | BigData
