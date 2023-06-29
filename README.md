@@ -13,9 +13,12 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 - ⚡ Fun fact: ...                       | 有趣的事实
 -->
 
-# Hi there 👋
+# Hi, I'm Yanyz 👋
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-3176998075@qq.com-Green?logo=Gmail&logoColor=white&link=mailto:3176998075@qq.com)](mailto:3176998075@qq.com)
+
+
+
 
 
 
@@ -31,21 +34,28 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 - ✍️ &nbsp; 观看动漫并尝试最新的设计趋势作为爱好/副业。
 - ☕ &nbsp; 我相信，一杯完美的咖啡可以成为任何压力的终极解决方案。
 
+
+
+
+
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yanyz-ok" width="33%"/>
 
 ### 🛠 Tech Stack
 
+
 - 💻 &nbsp;
 ![Java](https://img.shields.io/badge/JAVA-e1681b.svg?logo=openjdk&logoColor=white) | 
+![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logo=Scala&logoColor=white) | 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?logo=python&logoColor=white) | 
-![Cpp](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) | 
-![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logo=Scala&logoColor=white)
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) |
+![Shell](https://img.shields.io/badge/Shell-FFD500.svg?logo=Shell&logoColor=white)
 - 🌐 &nbsp; 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) | 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white) | 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?logo=javascript&logoColor=white) | 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white) | 
-![SASS](https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white) |
+![CSS3](https://img.shields.io/badge/CSS3-CC6699.svg?logo=css3&logoColor=white) | 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white) | 
+![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white) |
 ![Element](https://img.shields.io/badge/Element-0DBD8B.svg?logo=element&logoColor=white)
 - 🛢 &nbsp; 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mariadb&logoColor=white) | 
@@ -55,8 +65,8 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 ![Neo4J](https://img.shields.io/badge/Neo4J-018bff.svg?logo=Neo4J&logoColor=white)
 - 🚀 &nbsp; 
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?logo=intellij-idea&logoColor=white) |
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white) | 
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?logo=visual-studio-code&logoColor=white) | 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white) | 
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624.svg?logo=linux&logoColor=white) | 
 ![Git](https://img.shields.io/badge/GIT-F05032.svg?logo=git&logoColor=white) |
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white)
@@ -97,6 +107,14 @@ https://github.com/boennemann/badges
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 -->
+
+
+
+
+
+
+
+
 
 &nbsp;
 
