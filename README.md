@@ -1,3 +1,6 @@
+<img align="center" src="https://github.com/Yanyz-ok/Yanyz-ok/blob/main/image/go.png" width="100%"/>
+
+
 <!--
 **Yanyz-ok/Yanyz-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +16,16 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 - ⚡ Fun fact: ...                       | 有趣的事实
 -->
 
+
+&nbsp;
+
+[![Gmail Badge](https://img.shields.io/badge/QQ-3176998075@qq.com-Green?logo=tencentqq&logoColor=EB1923&link=mailto:3176998075@qq.com)](mailto:3176998075@qq.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-yanyingzhe88@gmail.com-Green?logo=Gmail&logoColor=EA4335&link=mailto:yanyingzhe88@gmail.com)](mailto:yanyingzhe88@gmail.com)
+
+
 # Hi, I'm Yanyz 👋
 
-[![Gmail Badge](https://img.shields.io/badge/gmail-3176998075@qq.com-Green?logo=Gmail&logoColor=white&link=mailto:3176998075@qq.com)](mailto:3176998075@qq.com)
+
 
 
 
@@ -40,37 +50,42 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yanyz-ok" width="33%"/>
+&nbsp;
 
 ### 🛠 Tech Stack
 
-
-- 💻 &nbsp;
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yanyz-ok" width="33%"/>
+  
+💻 &nbsp;
 ![Java](https://img.shields.io/badge/JAVA-e1681b.svg?logo=openjdk&logoColor=white) | 
 ![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logo=Scala&logoColor=white) | 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?logo=python&logoColor=white) | 
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) |
 ![Shell](https://img.shields.io/badge/Shell-FFD500.svg?logo=Shell&logoColor=white)
-- 🌐 &nbsp; 
+
+🌐 &nbsp; 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) | 
 ![CSS3](https://img.shields.io/badge/CSS3-CC6699.svg?logo=css3&logoColor=white) | 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white) | 
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white) |
 ![Element](https://img.shields.io/badge/Element-0DBD8B.svg?logo=element&logoColor=white)
-- 🛢 &nbsp; 
+
+🛢 &nbsp; 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mariadb&logoColor=white) | 
 ![Hive](https://img.shields.io/badge/Hive-FF7A00.svg?logo=hive&logoColor=white) | 
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?logo=redis&logoColor=white) | 
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?logo=mongodb&logoColor=white) | 
 ![Neo4J](https://img.shields.io/badge/Neo4J-018bff.svg?logo=Neo4J&logoColor=white)
-- 🚀 &nbsp; 
+
+🚀 &nbsp; 
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?logo=intellij-idea&logoColor=white) |
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?logo=visual-studio-code&logoColor=white) | 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white) | 
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624.svg?logo=linux&logoColor=white) | 
 ![Git](https://img.shields.io/badge/GIT-F05032.svg?logo=git&logoColor=white) |
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white)
-- 🖥 &nbsp; 
+
+🖥 &nbsp; 
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?logo=spring&logoColor=white) | 
 ![VUE](https://img.shields.io/badge/VUE-4FC08D.svg?logo=vue.js&logoColor=white) | 
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=Apache%20Hadoop&logoColor=white) | 
@@ -78,7 +93,8 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 ![Flink](https://img.shields.io/badge/Flink-e6526f.svg?logo=Apache%20Flink&logoColor=white) | 
 ![Django](https://img.shields.io/badge/Django-0c4b33.svg?logo=django&logoColor=white) | 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff.svg?logo=Adobe%20Photoshop&logoColor=white)
-- 🔧 &nbsp;
+
+🔧 &nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-181717.svg?logo=github&logoColor=white) | 
 ![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?logo=apache-maven&logoColor=white) | 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?logo=apache-kafka&logoColor=white) | 
@@ -114,7 +130,7 @@ https://github.com/boennemann/badges
 
 
 
-
+&nbsp;
 
 &nbsp;
 
