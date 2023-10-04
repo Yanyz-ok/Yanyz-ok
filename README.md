@@ -54,7 +54,10 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yanyz-ok" width="33%"/>
 
 ### 🛠 Tech Stack
+
+Springboot
   
+<!--
 💻 &nbsp;
 ![Java](https://img.shields.io/badge/JAVA-e1681b.svg?logo=openjdk&logoColor=white) | 
 ![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logo=Scala&logoColor=white) | 
@@ -100,6 +103,8 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?logo=nginx&logoColor=white) | 
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?logo=docker&logoColor=white) |
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571.svg?logo=ElasticSearch&logoColor=white) 
+
+-->
 
 
 
