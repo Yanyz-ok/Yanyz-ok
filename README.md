@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Yanyz-ok/Yanyz-ok/blob/main/image/go.png" width="100%"/>
+<!-- <img align="center" src="https://github.com/Yanyz-ok/Yanyz-ok/blob/main/image/go.png" width="100%"/> -->
 
 
 <!--
@@ -32,7 +32,7 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="33%"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="33%"/> -->
 
 ### 👨🏻‍💻 About Me
 
