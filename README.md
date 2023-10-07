@@ -17,16 +17,15 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 -->
 
 
-&nbsp;
 
-[![Gmail Badge](https://img.shields.io/badge/QQ-3176998075@qq.com-Green?logo=tencentqq&logoColor=EB1923&link=mailto:3176998075@qq.com)](mailto:3176998075@qq.com)
-[![Gmail Badge](https://img.shields.io/badge/gmail-yanyingzhe88@gmail.com-Green?logo=Gmail&logoColor=EA4335&link=mailto:yanyingzhe88@gmail.com)](mailto:yanyingzhe88@gmail.com)
 
 
 # Hi, I'm Yanyz 👋
 
 
 
+[![Gmail Badge](https://img.shields.io/badge/QQ-3176998075@qq.com-Green?logo=tencentqq&logoColor=EB1923&link=mailto:3176998075@qq.com)](mailto:3176998075@qq.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-yanyingzhe88@gmail.com-Green?logo=Gmail&logoColor=EA4335&link=mailto:yanyingzhe88@gmail.com)](mailto:yanyingzhe88@gmail.com)
 
 
 
