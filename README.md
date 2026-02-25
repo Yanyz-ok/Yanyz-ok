@@ -36,10 +36,10 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; 我目前正在学习  应用程序开发。
-- 🤔 &nbsp; 探索新技术，并设计软件的解决方案和快速编程。
+- 🔭 &nbsp; 我目前正在学习  提升后端开发超能力。
+- 🤔 &nbsp; 探索新技术，设计系统终极解决方案并快速编程。
 - 🎓 &nbsp; 学习计算机科学、计算机编程和数学。
-- 💼 &nbsp; JAVA 开发人员、大数据开发人员和前端 Web 开发人员。
+- 💼 &nbsp; JAVA 全栈开发、大数据开发。
 - 🌱 &nbsp; 网络安全和人工智能爱好者。
 - ✍️ &nbsp; 观看动漫并尝试最新的设计趋势作为爱好/副业。
 - ☕ &nbsp; 我相信，一杯完美的咖啡可以成为任何压力的终极解决方案。
@@ -55,7 +55,11 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 ### 🛠 Tech Stack
 
-Springboot
+- 💻 &nbsp;    Python | Java | C++ | HTML | CSS | JavaScript
+- 🌐 &nbsp;    vue | Android | ArkTS | node.js
+- 🛢 &nbsp;    MySQL | Redis | Elasticsearch | MongoDB
+- 🔧 &nbsp;    IDEA | PyCharm | VScode | Navicat | docker | Git
+
   
 <!--
 💻 &nbsp;
@@ -133,8 +137,6 @@ https://github.com/boennemann/badges
 
 
 
-
-&nbsp;
 
 &nbsp;
 
