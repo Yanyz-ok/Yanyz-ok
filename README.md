@@ -31,7 +31,7 @@ Here are some ideas to get you started(这里有一些让你开始的想法):
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yanyz-ok" width="33%"/> -->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="33%"/>
+<img align="right" alt="GIF" src="hhttps://raw.githubusercontent.com/Yanyz-ok/Yanyz-ok/refs/heads/main/image/gif3.gif" width="33%"/>
 
 
 ### 👨🏻‍💻 About Me
